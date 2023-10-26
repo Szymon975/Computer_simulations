@@ -4,4 +4,5 @@ In this repository I share some of my projects during my  Computer Modeling cour
 
 ## project_13.py file
 
-Link to task and presentation: http://www.fuw.edu.pl/~qba/cmpp2023/lect11.pdf
+Link to lecture: [e](http://www.fuw.edu.pl/~qba/cmpp2023/lect11.pdf)
+

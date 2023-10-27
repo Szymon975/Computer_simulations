@@ -11,4 +11,15 @@ link to task: [project_12_task](http://www.fuw.edu.pl/~qba/cmpp2023/lab11.pdf).
 ## project_11.py file
 #### River Networks
 
-Link to lecture & task: [project_12](http://www.fuw.edu.pl/~tszawello/cmpp2023/lect10.pdf)
+Link to lecture & task: [project_11](http://www.fuw.edu.pl/~tszawello/cmpp2023/lect10.pdf). 
+
+## project_9.py file
+#### LMB & Vortex Shedding
+
+Link to lecture: [project_9_lecture](http://www.fuw.edu.pl/~tszawello/cmpp2023/lect8.pdf), 
+link to task: [project_9_task](http://www.fuw.edu.pl/~tszawello/cmpp2023/lab8.pdf).
+
+
+
+
+
